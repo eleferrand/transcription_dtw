@@ -1,0 +1,9 @@
+*
+!*/
+!.*
+!*.py
+!*.pyx
+!*.ipynb
+!*.md
+!Makefile
+*-checkpoint.ipynb
