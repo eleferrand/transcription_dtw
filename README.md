@@ -15,3 +15,6 @@ torch: used for wav2vec feature extractor: https://pytorch.org/
 praatio: used to extract the information from TextGrid files: https://pypi.org/project/praatio/
 
 pydub: Used to clip out the hits : https://pypi.org/project/pydub/
+
+# Acknowlegment
+The main DTW scripts in ./speech_dtw are from https://github.com/kamperh/speech_dtw
